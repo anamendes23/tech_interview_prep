@@ -49,7 +49,7 @@ Hard: https://www.hackerrank.com/challenges/poisonous-plants/problem
 **Topic: Trees and Graphs**
 
 Easy: https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem \
-Easy: https://leetcode.com/problems/find-the-town-judge/
+Easy: https://leetcode.com/problems/find-the-town-judge/ \
 Medium: https://www.hackerrank.com/challenges/find-the-nearest-clone/problem \
 Medium: https://www.hackerrank.com/challenges/tree-huffman-decoding/problem \
 Hard: https://www.hackerrank.com/challenges/balanced-forest/problem \
