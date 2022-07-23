@@ -83,6 +83,6 @@ Hard: https://www.hackerrank.com/challenges/decibinary-numbers/problem
 
 Easy: https://leetcode.com/problems/search-insert-position/ \
 Medium: https://leetcode.com/problems/search-in-rotated-sorted-array/ \
-Medium: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ \ 
+Medium: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ \
 Medium: https://leetcode.com/problems/search-a-2d-matrix/ \
 Hard: https://leetcode.com/problems/median-of-two-sorted-arrays/
