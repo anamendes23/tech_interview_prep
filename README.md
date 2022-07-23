@@ -24,8 +24,11 @@ The series of mock interviews will be organized by topic. Each week we will prac
 
 Easy: https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem \
 Easy: https://www.hackerrank.com/challenges/alternating-characters/problem \
+Easy: https://leetcode.com/problems/count-binary-substrings/ \
+Medium: https://leetcode.com/problems/top-k-frequent-elements/ \
 Medium: https://www.hackerrank.com/challenges/new-year-chaos/problem \
 Medium: https://www.hackerrank.com/challenges/common-child/problem \
+Medium: https://leetcode.com/problems/3sum/ \
 Hard: https://www.hackerrank.com/challenges/crush/problem \
 Hard: https://leetcode.com/problems/regular-expression-matching/
 
@@ -33,6 +36,8 @@ Hard: https://leetcode.com/problems/regular-expression-matching/
 **Topic: Linked Lists**
 
 Easy: https://www.hackerrank.com/challenges/ctci-linked-list-cycle/problem \
+Medium: https://leetcode.com/problems/partition-list/ \
+Medium: https://leetcode.com/problems/reverse-linked-list-ii/ \
 Medium: https://leetcode.com/problems/remove-nth-node-from-end-of-list/ \
 Hard: https://leetcode.com/problems/merge-k-sorted-lists/
 
@@ -41,9 +46,12 @@ Hard: https://leetcode.com/problems/merge-k-sorted-lists/
 
 Easy: https://leetcode.com/problems/implement-stack-using-queues/ \
 Easy: https://leetcode.com/problems/implement-queue-using-stacks/ \
+Medium: https://leetcode.com/problems/kth-smallest-element-in-a-bst/ \
+Medium: https://leetcode.com/problems/validate-binary-search-tree/ \
 Medium: https://www.hackerrank.com/challenges/balanced-brackets/problem \
 Medium: https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem \
-Hard: https://www.hackerrank.com/challenges/poisonous-plants/problem
+Hard: https://www.hackerrank.com/challenges/poisonous-plants/problem \
+Hard: https://leetcode.com/problems/find-median-from-data-stream/
 
 ### Aug 27th
 **Topic: Trees and Graphs**
@@ -67,4 +75,14 @@ Hard: https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem
 
 Easy: https://leetcode.com/problems/n-th-tribonacci-number/ \
 Medium: https://www.hackerrank.com/challenges/candies/problem \
+Medium: https://leetcode.com/problems/interleaving-string/ \
 Hard: https://www.hackerrank.com/challenges/decibinary-numbers/problem
+
+### Sep 17th
+**Topic: Binary Search**
+
+Easy: https://leetcode.com/problems/search-insert-position/ \
+Medium: https://leetcode.com/problems/search-in-rotated-sorted-array/ \
+Medium: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ \ 
+Medium: https://leetcode.com/problems/search-a-2d-matrix/ \
+Hard: https://leetcode.com/problems/median-of-two-sorted-arrays/
