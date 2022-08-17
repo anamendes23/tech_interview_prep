@@ -41,7 +41,7 @@ Medium: https://leetcode.com/problems/reverse-linked-list-ii/ \
 Medium: https://leetcode.com/problems/remove-nth-node-from-end-of-list/ \
 Hard: https://leetcode.com/problems/merge-k-sorted-lists/
 
-### Aug 20th
+### Aug 21th
 **Topic: Stacks and Queues**
 
 Easy: https://leetcode.com/problems/implement-stack-using-queues/ \
