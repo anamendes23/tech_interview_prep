@@ -46,8 +46,7 @@ Hard: https://leetcode.com/problems/merge-k-sorted-lists/
 
 Easy: https://leetcode.com/problems/implement-stack-using-queues/ \
 Easy: https://leetcode.com/problems/implement-queue-using-stacks/ \
-Medium: https://leetcode.com/problems/kth-smallest-element-in-a-bst/ \
-Medium: https://leetcode.com/problems/validate-binary-search-tree/ \
+Medium: https://leetcode.com/problems/design-browser-history/ \
 Medium: https://www.hackerrank.com/challenges/balanced-brackets/problem \
 Medium: https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem \
 Hard: https://www.hackerrank.com/challenges/poisonous-plants/problem \
@@ -58,6 +57,8 @@ Hard: https://leetcode.com/problems/find-median-from-data-stream/
 
 Easy: https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem \
 Easy: https://leetcode.com/problems/find-the-town-judge/ \
+Medium: https://leetcode.com/problems/kth-smallest-element-in-a-bst/ \
+Medium: https://leetcode.com/problems/validate-binary-search-tree/ \
 Medium: https://www.hackerrank.com/challenges/find-the-nearest-clone/problem \
 Medium: https://www.hackerrank.com/challenges/tree-huffman-decoding/problem \
 Hard: https://www.hackerrank.com/challenges/balanced-forest/problem \
@@ -67,6 +68,8 @@ Hard: https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem
 **Topic: Greedy Algorithms**
 
 Easy: https://www.hackerrank.com/challenges/luck-balance/problem \
+Easy: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ \
+Medium: https://leetcode.com/problems/container-with-most-water/ \
 Medium: https://www.hackerrank.com/challenges/greedy-florist/problem \
 Hard: https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem
 
