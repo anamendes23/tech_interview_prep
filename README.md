@@ -73,7 +73,7 @@ Medium: https://leetcode.com/problems/container-with-most-water/ \
 Medium: https://www.hackerrank.com/challenges/greedy-florist/problem \
 Hard: https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem
 
-### Sep 10th
+### Sep 11th
 **Topic: Dynamic Programming**
 
 Easy: https://leetcode.com/problems/n-th-tribonacci-number/ \
